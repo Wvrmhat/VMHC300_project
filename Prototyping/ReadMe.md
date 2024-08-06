@@ -1,5 +1,5 @@
 # Prototyping 
 
 ## Tools to consider:
- +Pencil project
- +Figma
+ + Pencil project
+ + Figma
