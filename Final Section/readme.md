@@ -1,1 +1,0 @@
-# Impact and conclusion section
